@@ -16,7 +16,7 @@
 
 ---
 
-![alt text](https://github.com/ShaanWocker/MERN-REST-API/blob/main/frontend/assets/Screenshot.png?raw=true)
+![alt text](https://github.com/ShaanWocker/MERN-REST-API/blob/main/assets/Screenshot.png?raw=true)
 
 ---
 
