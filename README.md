@@ -22,11 +22,15 @@
 
 ### Available Scripts
 
----
+In the **root** and **/frontend** directories, you can run:
 
-In the project directory, you can run:
+**npm install**
 
-**npm start**
+To install the dependencies.
+
+After dependencies are installed, navigate to the **root** directory.
+
+**npm run dev**
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
